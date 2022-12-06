@@ -1,8 +1,8 @@
 body {
-  background-image: url(images/background.png);
+  background-image: url("images/background.png");
 }
 
 .App {
-  text-align: center;
   color: white;
+  text-align: center;
 }
